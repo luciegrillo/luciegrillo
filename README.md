@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou Lucie Grillo! 🎨💻
+# Olá, eu sou a Lucie! 🎨💻
 
 </div>
 
-Sou uma estudante de Engenharia de Software, com competências que variam desde a área criativa até a resolução de problemas desafiadores. Minha paixão está em utilizar tecnologia para criar soluções inovadoras, otimizando processos e desenvolvendo projetos de impacto. Com experiência em desenvolvimento web e sistemas, busco sempre evoluir e enfrentar novos desafios.
+Uma estudante de Engenharia de Software, com habilidades que vão desde o processo criativo até a otimização de sistemas e automação de processos, focando na criação de soluções eficientes e inovadoras. 
 
 ## 🛠️ Tecnologias e Ferramentas que Utilizo
 
