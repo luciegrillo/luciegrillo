@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá, eu sou Lucie Grillo! 😊
+# Oi, eu sou Lucie Grillo! 🚀
 
 </div>
 
-Sou uma estudante de Engenharia de Software, apaixonada por tecnologia e sempre em busca de novas experiências. Acredito que a programação pode mudar o mundo! Estou me aprofundando em várias áreas da engenharia de software e procurando explorar novas tecnologias. Estou animada para colaborar em projetos interessantes e aprender com outros!
+Sou estudante de Engenharia de Software, sempre motivada a explorar o potencial da tecnologia e suas aplicações práticas. Atualmente, estou me especializando em diversas áreas da engenharia de software, com interesse em aprender novas ferramentas e tecnologias. Adoro colaborar em projetos que me desafiam e me fazem evoluir!
 
-## 🛠️ Tecnologias e Linguagens que Uso
+## 🛠️ Tecnologias e Ferramentas que Utilizo
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/>
@@ -25,7 +25,13 @@ Sou uma estudante de Engenharia de Software, apaixonada por tecnologia e sempre 
 
 ## 📫 Como Me Encontrar
 
-- [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/lucie-grillo-577051315/)
-- [![Email](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:luciegrilloaq@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucie-grillo-577051315/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:luciegrilloaq@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/>
+  </a>
+</div>
 
-Sinta-se à vontade para entrar em contato! Estou sempre aberta a colaborações. 😊
+Estou sempre aberta a novos projetos e parcerias, então não hesite em me contatar. Vamos criar algo incrível juntos! 😊
