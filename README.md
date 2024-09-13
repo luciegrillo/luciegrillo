@@ -25,16 +25,9 @@ Sou uma estudante de Engenharia de Software, com competências que variam desde 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucie-grillo-577051315/" target="_blank">
-    <button style="display: inline-flex; align-items: center; padding: 10px 20px; font-size: 16px; color: white; background-color: #0077b5; border: none; border-radius: 5px;">
-      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="25" style="margin-right: 10px;"/>
-      LinkedIn
-    </button>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:luciegrilloaq@gmail.com" target="_blank">
-    <button style="display: inline-flex; align-items: center; padding: 10px 20px; font-size: 16px; color: white; background-color: #D14836; border: none; border-radius: 5px;">
-      <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="25" style="margin-right: 10px;"/>
-      Email
-    </button>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
   </a>
 </div>
-
