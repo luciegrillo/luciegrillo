@@ -1,12 +1,12 @@
+<div align="center">
+
 # Olá, eu sou Lucie Grillo! 😊
 
-Sou uma estudante de Engenharia de Software, apaixonada por tecnologia e sempre em busca de novas experiências. Acredito que a programação pode mudar o mundo!
+</div>
 
-## 🚀 Sobre Mim
+Sou uma estudante de Engenharia de Software, apaixonada por tecnologia e sempre em busca de novas experiências. Acredito que a programação pode mudar o mundo! Estou me aprofundando em várias áreas da engenharia de software e procurando explorar novas tecnologias. Estou animada para colaborar em projetos interessantes e aprender com outros!
 
-Atualmente, estou me aprofundando em várias áreas da engenharia de software e procurando explorar novas tecnologias. Estou animada para colaborar em projetos interessantes e aprender com outros!
-
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias e Linguagens que Uso
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/>
@@ -17,19 +17,13 @@ Atualmente, estou me aprofundando em várias áreas da engenharia de software e 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50"/> 
 </div>
 
-## 🔧 Minhas Linguagens Favoritas
-
 - Java
 - Python
 - C++
 - HTML
 - CSS
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=luciegrillo&show_icons=true&theme=radical)
-
-## 📫 Como me Encontrar
+## 📫 Como Me Encontrar
 
 - [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/lucie-grillo-577051315/)
 - [![Email](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:luciegrilloaq@gmail.com)
