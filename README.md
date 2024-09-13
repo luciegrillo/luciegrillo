@@ -31,3 +31,13 @@ Sou uma estudante de Engenharia de Software, com competências que variam desde 
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
   </a>
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-username/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
