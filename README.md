@@ -23,21 +23,11 @@ Sou uma estudante de Engenharia de Software, com competências que variam desde 
 
 ## 📫 Como Me Encontrar
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucie-grillo-577051315/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:luciegrilloaq@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
-  </a>
-</div>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-username/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lucie-grillo-577051315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:luciegrilloaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
