@@ -20,8 +20,14 @@ Estou dedicando minha jornada acadêmica para aprimorar minhas habilidades e exp
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/lucie-grillo-577051315/) [![Email](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:luciegrilloaq@gmail.com)
 
-## 🔧 Minhas Linguagens Mais Usadas
+## 🔧 Minhas Linguagens Favoritas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luciegrillo&theme=radical)
+<div>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> Java  
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> Python  
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> C++  
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50"/> HTML  
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50"/> CSS  
+</div>
 
 Sinta-se à vontade para me contatar! Estou aberta a novas colaborações e trocas de ideias. 😊
