@@ -4,7 +4,7 @@
 
 </div>
 
-Uma estudante de Engenharia de Software, com habilidades que vão desde o processo criativo até a otimização de sistemas e automação de processos, focando na criação de soluções eficientes e inovadoras. 
+Sou uma estudante de Engenharia de Software, com habilidades que vão desde o processo criativo até a otimização de sistemas e automação de processos, focando na criação de soluções eficientes e inovadoras. 
 
 ## 🛠️ Tecnologias e Ferramentas que Utilizo
 
